@@ -1,0 +1,4 @@
+set ftp:ssl-allow false
+
+# Replace files automatically.
+set xfer:clobber on
